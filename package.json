@@ -1,5 +1,5 @@
 {
-  "name": "geolonia-midnight",
+  "name": "geolonia-red-planet",
   "version": "0.1.0",
   "description": "3D style based on default style for [Geolonia](https://geolonia.com/).",
   "main": "style.json",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geolonia/midnight.git"
+    "url": "git+https://github.com/geolonia/red-planet.git"
   },
   "author": {
     "name": "Geolonia Inc.",
@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/geolonia/midnight/issues"
+    "url": "https://github.com/geolonia/red-planet/issues"
   },
-  "homepage": "https://github.com/geolonia/midnight#readme"
+  "homepage": "https://github.com/geolonia/red-planet#readme"
 }
