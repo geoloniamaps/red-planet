@@ -2420,7 +2420,7 @@
       "type": "symbol",
       "source": "geolonia",
       "source-layer": "poi",
-      "minzoom": 16,
+      "minzoom": 14,
       "layout": {
         "text-padding": 2,
         "text-font": [
