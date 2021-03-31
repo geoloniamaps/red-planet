@@ -14,6 +14,14 @@
     {
       "id": "background",
       "type": "background",
+      "filter": [
+        "all",
+        [
+          "==",
+          "admin_level",
+          4
+        ]
+      ],
       "paint": {
         "background-color": "rgba(66, 3, 20, 1)"
       }
